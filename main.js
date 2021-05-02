@@ -19,9 +19,7 @@ function Conversion(item){
     }
     
     /*var input = [3,25,209];*/
-try{
-    var output = args.map(item=>Conversion(item));
-    console.log(output.toString());
-}catch(e){
-    console.error(e);
-}
+
+var output = args.map(item=>Conversion(item));
+console.log(output.toString());
+
