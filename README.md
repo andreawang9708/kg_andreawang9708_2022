@@ -1,1 +1,1 @@
-# kg_andreawang9708_2022
+kargo's summer internship pre-assessment solution
